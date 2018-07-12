@@ -1,0 +1,38 @@
+p {
+	font-size : 16px;
+	line-spacing : 2px;
+	letter-spacing : 1px;
+}
+h3 {
+	text-align : center;
+}
+a.hover{
+	color:red
+}
+img[src]{
+	width:200px;
+	display : block;
+	margin : 0 auto ;
+}
+html{
+	font-size : 16px;
+	font-family: 'Gaegu', cursive;
+	background-color : #FF9500;
+}
+body {
+	background-color : #10E3F2;
+	width : 600px;
+	border : 5px solid black;
+	margin : 0 auto;
+	padding: 0 20px 20px 20px;
+}
+h1 {
+	font-size : 40px;
+	text-align : center;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #FF9500;
+  text-shadow: 3px 3px 7px black;
+}
